@@ -1,7 +1,9 @@
 # News App SDU
 
 A new Dart application which show live news
- 
+
+## Description of project
+
 ## Mentor
 ▪ [Bissenbay Dauletbayev](https://github.com/bissenbay) - b.dauletbayev@sdu.edu.kz
 
@@ -26,6 +28,7 @@ A new Dart application which show live news
 ## Project Demo
 https://github.com/akashlilhare/news_app/blob/master/screenshot/g1.gif
 https://github.com/akashlilhare/news_app/blob/master/screenshot/g1.gif?raw=true
+https://github.com/Tokashti/News-App/blob/main/screenshot/g1.gif?raw=true
 
 ## License & copyright
 *© Suleyman Demirel University*
