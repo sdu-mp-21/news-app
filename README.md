@@ -43,10 +43,10 @@ With the help of this app you can read live news from any categories:
 </p>
  
 ### Our Teeammates
-## Tokashti 
-## Diasorazalinov
-## Kgaziz
-## Aibekakbar
+## Talassova Togzhan 190107053
+## Orazalinov Dias 190107004
+## Kosherbayev Gaziz 190107025
+## Aibek Akbar 190107094
 
 
 
