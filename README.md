@@ -25,7 +25,7 @@ A new Flutter application which show live news
 
 ## Project Demo
 https://www.youtube.com/watch?v=I1n4RAmC_gE
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=I1n4RAmC_gE)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=I1n4RAmC_gE)
 ## License & copyright
 *© Suleyman Demirel University*
 
