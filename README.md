@@ -1,6 +1,6 @@
 # News App SDU
 
-A new Flutter application which show live news
+A new Dart application which show live news
  
 ## Mentor
 ▪ [Bissenbay Dauletbayev](https://github.com/bissenbay) - b.dauletbayev@sdu.edu.kz
