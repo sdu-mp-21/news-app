@@ -2,7 +2,8 @@
 
 A new Flutter application which show live news
  
-## Bissenbay Dauletbayev - b.dauletbayev@sdu.edu.kz
+## Mentor
+### Bissenbay Dauletbayev - b.dauletbayev@sdu.edu.kz
  
 ## Our Teeammates
 ### Talassova Togzhan 190107053
