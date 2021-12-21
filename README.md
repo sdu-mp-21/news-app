@@ -1,6 +1,6 @@
 # News App SDU
 
-A new Dart application which show live news
+*A new Dart application which show live news*
 
 ## Description of project
 *NewsApp application -  is to let people know about everything that's going on today, not to miss important news and share it with friends.
