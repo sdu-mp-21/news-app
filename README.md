@@ -7,8 +7,11 @@ A new Flutter application which show live news
 
 ## Team Members
 ▪ [Talassova Togzhan](https://github.com/Tokashti) 190107053@stu.sdu.edu.kz
+
 ▪ [Orazalinov Dias](https://github.com/Diasorazalinov) 190107004@stu.sdu.edu.kz
+
 ▪ [Kosherbayev Gaziz](https://github.com/Kgaziz) 190107025@stu.sdu.edu.kz
+
 ▪ [Akbar Aibek](https://github.com/AibekAkbar) 190107094@stu.sdu.edu.kz
 
 
