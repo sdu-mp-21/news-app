@@ -18,7 +18,7 @@ With the help of this app you can read live news from any categories:
 
 1. Clone this repository
    ```
-    git clone https://github.com/Tokashti/News-App.git
+    git clone https://github.com/sdu-mp-21/news-app.git
    ```
 
 2. Set current working directory to sudoku
@@ -36,10 +36,10 @@ With the help of this app you can read live news from any categories:
 <p align="middle">
 
 
-  <img src ="https://github.com/Tokashti/News-App/blob/main/screenshot/g1.gif" width="180" height="360">
-  <img src ="https://github.com/Tokashti/News-App/blob/main/screenshot/s1.png" width="180" height="360">
-  <img src ="https://github.com/Tokashti/News-App/blob/main/screenshot/s2.png" width="180" height="360">
-  <img src ="https://github.com/Tokashti/News-App/blob/main/screenshot/screen_1.png" width="180" height="360">
+  <img src ="https://github.com/sdu-mp-21/news-app/blob/main/screenshot/g1.gif" width="180" height="360">
+  <img src ="https://github.com/sdu-mp-21/news-app/blob/main/screenshot/s1.png" width="180" height="360">
+  <img src ="https://github.com/sdu-mp-21/news-app/blob/main/screenshot/s2.png" width="180" height="360">
+  <img src ="https://github.com/sdu-mp-21/news-app/blob/main/screenshot/screen_1.png" width="180" height="360">
 </p>
  
 ### Our Teeammates
