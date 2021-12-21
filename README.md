@@ -1,4 +1,4 @@
-# News App
+# News App SDU
 
 A new Flutter application which show live news
  
