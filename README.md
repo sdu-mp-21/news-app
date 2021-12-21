@@ -16,10 +16,7 @@ A new Flutter application which show live news
 
 ## Screenshots
 ![app1](https://user-images.githubusercontent.com/93644419/146963911-3d00f36e-8e33-4d72-82c4-ef8d07e2ca9a.jpg)
-{repository}
-{branch}
-{path}
-
+<img src="https://user-images.githubusercontent.com/93644419/146963911-3d00f36e-8e33-4d72-82c4-ef8d07e2ca9a.jpg" width="200" />
 ## License & copyright
 *© Suleyman Demirel University*
 
