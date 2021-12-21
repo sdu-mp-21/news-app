@@ -34,6 +34,21 @@ We made this app for cross platform using Dart*
 
 *Categorized for convenience*
 
+
+## Project structure
+*Screen saver page*
+
+*Introductory page*
+
+*Main page*
+
+*News category page*
+
+*News page*
+
+*Pages added to favorites news*
+
+
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/93644419/146964692-3396ebc1-f78f-4ef3-a15a-78fc94ab42b0.jpg" width="200" />  <img src="https://user-images.githubusercontent.com/93644419/146964856-3b2e805b-5af2-4d15-ae9e-98078fd1340b.jpg" width="200" />
 <img src="https://user-images.githubusercontent.com/93644419/146963911-3d00f36e-8e33-4d72-82c4-ef8d07e2ca9a.jpg" width="200" />  <img src="https://user-images.githubusercontent.com/93644419/146965034-9933ff81-5623-4c71-b6b6-8213af8cb7fd.jpg" width="200" />
