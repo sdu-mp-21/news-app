@@ -12,7 +12,7 @@ A new Flutter application which show live news
 ### ▪ Aibek Akbar 190107094@stu.sdu.edu.kz
 
 ## Goal
-### The goal of the app is for people to be able to read the latest news every day and share it with friends or family
+###The goal of the app is for people to be able to read the latest news every day and share it with friends or family
 
 
 
