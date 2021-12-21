@@ -29,7 +29,9 @@ We made this app for cross platform using Dart*
 
 ## Scope and Features
 *Simple implementation of platform-specific logic*
+
 *User-friendly and simple interface* 
+
 *Categorized for convenience*
 
 ## Screenshots
