@@ -29,7 +29,7 @@ A new Dart application which show live news
 https://github.com/akashlilhare/news_app/blob/master/screenshot/g1.gif
 https://github.com/akashlilhare/news_app/blob/master/screenshot/g1.gif?raw=true
 https://github.com/Tokashti/News-App/blob/main/screenshot/g1.gif?raw=true
-
+![Alt Text](https://github.com/akashlilhare/news_app/blob/master/screenshot/g1.gif?raw=true)
 ## License & copyright
 *© Suleyman Demirel University*
 
