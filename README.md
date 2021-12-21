@@ -49,6 +49,9 @@ We made this app for cross platform using Dart*
 *Pages added to favorites news*
 
 
+## Users
+*This app can be used by anyone who wants to not go to news portals, but in one click go to the app and select the category that you want, simplify reading the news. In the application you can put the news in your favorites and read it later so as not to lose it.*
+
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/93644419/146964692-3396ebc1-f78f-4ef3-a15a-78fc94ab42b0.jpg" width="200" />  <img src="https://user-images.githubusercontent.com/93644419/146964856-3b2e805b-5af2-4d15-ae9e-98078fd1340b.jpg" width="200" />
 <img src="https://user-images.githubusercontent.com/93644419/146963911-3d00f36e-8e33-4d72-82c4-ef8d07e2ca9a.jpg" width="200" />  <img src="https://user-images.githubusercontent.com/93644419/146965034-9933ff81-5623-4c71-b6b6-8213af8cb7fd.jpg" width="200" />
