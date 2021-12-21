@@ -47,6 +47,6 @@ With the help of this app you can read live news from any categories:
 ## Diasorazalinov
 ## Kgaziz
 ## Aibekakbar
-git add .
+
 
 
