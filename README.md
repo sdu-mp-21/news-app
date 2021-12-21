@@ -15,8 +15,10 @@ A new Flutter application which show live news
 *The goal of the app is for people to be able to read the latest news every day and share it with friends or family*
 
 ## Screenshots
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
-
+![app1](https://user-images.githubusercontent.com/93644419/146963911-3d00f36e-8e33-4d72-82c4-ef8d07e2ca9a.jpg)
+{repository}
+{branch}
+{path}
 
 ## License & copyright
 *© Suleyman Demirel University*
