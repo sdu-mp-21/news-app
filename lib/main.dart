@@ -13,22 +13,6 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'In-News',
       debugShowCheckedModeBanner: false,
-      // darkTheme: ThemeData(
-      //   backgroundColor: Colors.white,
-      //     brightness: Brightness.dark,
-      //     primarySwatch: Colors.blue,
-      //     textTheme: textTheme,
-      //     inputDecorationTheme: InputDecorationTheme(
-      //       filled: true,
-      //       fillColor: Colors.grey.shade800,
-      //       enabledBorder: OutlineInputBorder(
-      //           borderRadius: BorderRadius.circular(8),
-      //           borderSide: BorderSide(color: Colors.transparent)),
-      //       contentPadding: EdgeInsets.symmetric(horizontal: 16),
-      //       focusedBorder: OutlineInputBorder(
-      //           borderRadius: BorderRadius.circular(8),
-      //           borderSide: BorderSide(color: Colors.transparent)),
-      //     )),
       theme: ThemeData(
         backgroundColor: Colors.white,
        //   primarySwatch: Colors.blue,
