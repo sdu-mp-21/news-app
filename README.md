@@ -3,6 +3,8 @@
 A new Dart application which show live news
 
 ## Description of project
+NewsApp application -  is to let people know about everything that's going on today, not to miss important news and share it with friends.
+We made this app for cross platform using Dart
 
 ## Mentor
 ▪ [Bissenbay Dauletbayev](https://github.com/bissenbay) - b.dauletbayev@sdu.edu.kz
