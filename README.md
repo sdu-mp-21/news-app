@@ -19,7 +19,7 @@ We made this app for cross platform using Dart*
 *▪ [Akbar Aibek](https://github.com/AibekAkbar) - 190107094@stu.sdu.edu.kz*
 
 ## Presentation
-*[Link to](https://docs.google.com/presentation/d/1hyixfEOt3YdkD7eN4W_3a2uMgz9S6sYIZZAeMGpC3vU/edit?usp=sharing)*
+*Link to [Presentation](https://docs.google.com/presentation/d/1hyixfEOt3YdkD7eN4W_3a2uMgz9S6sYIZZAeMGpC3vU/edit?usp=sharing)*
 
 ## Goal
 *The goal of the app is for people to be able to read the latest news every day and share it with friends or family*
